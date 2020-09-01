@@ -1,0 +1,18 @@
+{
+  "name": "ai-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qoddi",
+  "license": "ISC",
+  "dependencies": {
+    "baidu-aip-sdk": "^2.4.6",
+    "node-hotworddetector": "^1.3.0",
+    "node-record-lpcm16": "^1.0.1",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "urllib": "^2.36.1"
+  }
+}
