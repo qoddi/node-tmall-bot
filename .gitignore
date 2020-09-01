@@ -1,4 +1,5 @@
-*.jepg
+*.jpeg
+*.mp3
 *.crz
 
 # Logs
